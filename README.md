@@ -1,4 +1,4 @@
-# sandcastle-py
+# (Experimental!) sandcastle-py
 
 A minimal Python reimplementation of a narrow slice of `@ai-hero/sandcastle`:
 run the `pi` coding-agent CLI inside a locked-down Docker sandbox, driven by
